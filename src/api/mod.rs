@@ -5,6 +5,7 @@ use crate::state::AppState;
 pub mod audit;
 pub mod strategies;
 pub mod auth;
+pub mod ws;
 
 
 
